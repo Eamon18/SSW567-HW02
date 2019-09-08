@@ -1,2 +1,1 @@
-# SSW567-HW02
-Repository for HW02a in SSW567. Includes the Triangle.py file and its test file TestTriangle.py
+[![build status of master](https://travis-ci.org/Eamon18/SSW567-HW02.svg?branch=master)](https://travis-ci.org/Eamon18/SSW567-HW02)
